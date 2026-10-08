@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abawom-ux.github.io/wakeup-event-organizer/sitemap.xml
